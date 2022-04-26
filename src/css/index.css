@@ -1,0 +1,21 @@
+.bg-red {
+  /* background-color: red; */
+}
+
+.f18 {
+  font-size: 18px;
+}
+
+.wh200 {
+  width: 200px;
+  height: 200px;
+  color: #12345678;
+}
+
+.comm {
+  user-select: none;
+}
+
+.withBgImg {
+  background-image: url("../img/WechatIMG2.jpeg");
+}
